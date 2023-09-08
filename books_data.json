@@ -1,0 +1,98 @@
+{
+    "1": {
+        "ISBN": "978-0451526342",
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "price": 9.99,
+        "genre": "political satire",
+        "overview": "beast fable in the form of a political satire."
+    },
+    "2": {
+        "ISBN": "978-0140449143",
+        "title": "The Republic",
+        "author": "Plato",
+        "price": 7.99,
+        "genre": "philosophy",
+        "overview": "Socratic dialogue concerning justice, order, a just city and a just man."
+    },
+    "3": {
+        "ISBN": "978-0451524935",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "price": 8.99,
+        "genre": "psychological fiction",
+        "overview": "Set in an Oregon psychiatric hospital, the narrative serves as a study of institutional processes and the human mind, including a critique of psychiatry and a tribute to individualistic principles"
+    },
+    "4": {
+        "ISBN": "978-0061120084",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 10.99,
+        "genre": "classic fiction",
+        "overview": "The story of racial injustice and the loss of innocence in the American South."
+    },
+    "5": {
+        "ISBN": "978-1400032716",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 12.99,
+        "genre": "classic fiction",
+        "overview": "A story of the American Dream and the Roaring Twenties."
+    },
+    "6": {
+        "ISBN": "978-1984801381",
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "price": 15.99,
+        "genre": "autobiography",
+        "overview": "The memoir of the former First Lady of the United States."
+    },
+    "7": {
+        "ISBN": "978-0735219090",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "price": 11.99,
+        "genre": "mystery",
+        "overview": "A mystery and coming-of-age novel set in the marshes of North Carolina."
+    },
+    "8": {
+        "ISBN": "978-0743273565",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 9.49,
+        "genre": "coming-of-age",
+        "overview": "A novel about a teenager's experiences in New York City."
+    },
+    "9": {
+        "ISBN": "978-0140283334",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "price": 8.99,
+        "genre": "fiction",
+        "overview": "A philosophical novel that follows a young shepherd's journey."
+    },
+    "10": {
+        "ISBN": "978-0385472579",
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "price": 14.99,
+        "genre": "fantasy",
+        "overview": "The first book in the 'A Song of Ice and Fire' series."
+    },    
+    "11": {
+        "ISBN": "978-0062316097",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 11.99,
+        "genre": "fantasy",
+        "overview": "The classic fantasy novel about Bilbo Baggins' adventures."
+    },
+    "12": {
+        "ISBN": "978-0451167712",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "price": 9.99,
+        "genre": "dystopian fiction",
+        "overview": "A dystopian novel set in a future where books are banned."
+    }
+}
